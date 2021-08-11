@@ -1,3 +1,7 @@
+## Chose option 2 - CLustering Crypto
+The notebook is in the culstering crypto folder
+
+
 # Unit 13 Homework Assignment - The Power of the Cloud and Unsupervised Learning
 
 ## Background
