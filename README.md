@@ -1,4 +1,4 @@
-## Chose option 2 - CLustering Crypto
+## Chose option 2 - Clustering Crypto
 The notebook is in the culstering crypto folder
 
 
